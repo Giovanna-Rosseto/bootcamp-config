@@ -45,6 +45,7 @@ rawdbs:
                       - name: giovanna.rosseto@radixeng.com
                         email: giovanna.rosseto@radixeng.com
                         role: Bootcamp 12 Administrator
+                        send-notification: true
     - rawdb-name: src:002:opcua:db
       dataset-external-id: src:002:opcua:ds
       short-name: opcua
@@ -57,3 +58,4 @@ rawdbs:
                       - name: giovanna.rosseto@radixeng.com
                         email: giovanna.rosseto@radixeng.com
                         role: Bootcamp 12 Administrator
+                        send-notification: true

@@ -1,6 +1,6 @@
 ---
 name: Deploy transformations
-
+# detail branches
 on:
     push:
         branches: [main]
